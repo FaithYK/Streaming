@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StreamingDemo</string>
+    <string name="network_error">Network error!</string>
+    <string name="put_streaming">推流</string>
+</resources>
